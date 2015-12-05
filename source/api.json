@@ -40,5 +40,19 @@
     ],
     "legals": []
   },
+  nodeMaps": [
+    {
+        "technicalType": "ffmap",
+        "interval": "1min",
+        "mapType": "geographical",
+        "url": "http://map.freifunk-duesseldorf.de/"
+    },
+    {
+        "technicalType": "nodelist",
+        "interval": "1min",
+        "mapType": "list/status",
+        "url": "http://map.freifunk-duesseldorf.de/nodelist.json"
+    }
+  ],
   "api": "0.4.8"
 }
