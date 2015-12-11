@@ -52,6 +52,7 @@
       "interval": "1min",
       "mapType": "list/status",
       "url": "http://map.freifunk-duesseldorf.de/nodelist.json"
-    },
+    }
+  ],
   "api": "0.4.8"
 }
